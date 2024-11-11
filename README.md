@@ -16,7 +16,7 @@ I originally come from a quantitative economics and finance background, but I've
 
 - 🫀 [Predicting Oncological Structures](https://challengedata.ens.fr/challenges/150): Few shot learning of anatomical and oncological structures in CT images (Challenge hosted by Raidium) 
 - 🌳 [Forest Change Detection](https://swiftt.eu/): I worked on this EU-funded project during my time at Axa Climate. Code is private but mainly uses Google Earth Engine in combination with Sentinel-1 and Sentinel-2
-- 💵 [Paris Bike Traffic](https://github.com/cathal-brady/Paris_Bike_Traffic_Prediction): Using a spatial dataset of bike counters around Paris, combined with weather and traffic data, to build a machine learning model that predicts bike traffic.
+- 🚲 [Paris Bike Traffic](https://github.com/cathal-brady/Paris_Bike_Traffic_Prediction): Using a spatial dataset of bike counters around Paris, combined with weather and traffic data, to build a machine learning model that predicts bike traffic.
 
 ## 🤝 Let's Collaborate!
 
